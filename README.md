@@ -23,16 +23,17 @@ We have to analyze the weather trends for June and December to provide an year a
 ## Results
 
 Deliverable 1: Determine the Summary Statistics for June
-
-
 The Summary Statistics for June:
+
+
 ![Screen Shot 2021-07-01 at 5.25.45 PM](https://i.imgur.com/4SMIL1L.png)
 
 
 
 Deliverable 2: Determine the Summary Statistics for December
-
 The Summary Statistics for December:
+
+
 ![Screen Shot 2021-07-01 at 5.28.59 PM](https://i.imgur.com/5gE7MvF.png)
 
 
