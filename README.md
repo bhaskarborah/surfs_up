@@ -23,6 +23,7 @@ We have to analyze the weather trends for June and December to provide an year a
 ## Results
 
 Deliverable 1: Determine the Summary Statistics for June
+
 The Summary Statistics for June:
 
 
@@ -31,6 +32,7 @@ The Summary Statistics for June:
 
 
 Deliverable 2: Determine the Summary Statistics for December
+
 The Summary Statistics for December:
 
 
